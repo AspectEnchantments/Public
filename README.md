@@ -1,1 +1,1 @@
-# Public
+# Aspect Enchantments Public Repo
